@@ -141,6 +141,7 @@ Julia Bolting
 - [Yarooob Al Mostafa](https://github.com/Yarob50)
 - Jon Henley
 - Mathew :D
+-Tatiane Gonçalves
 - Sean Tuttle (https://github.com/vandysean)
 - Rachael Smith (https://github.com/rachael-smith)
 - Sean Lamb (https://github.com/seanlamb)
